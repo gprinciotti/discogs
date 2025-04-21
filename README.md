@@ -28,7 +28,16 @@ Para configurar seu ambiente para executar este projeto, siga as instruções ab
 
 1. **Pré-requisitos**: Certifique-se de ter Python 3.13+ instalado.
 
-2. **Poetry**: Este projeto utiliza o [Poetry](https://python-poetry.org/) para gerenciar o ambiente virtual e as dependências. Certifique-se de que o Poetry está instalado.
+2. **Repositório**: Clone este repositório.
+
+```bash
+git clone https://github.com/gprinciotti/discogs.git
+cd discogs
+```
+
+3. **Poetry**: Este projeto utiliza o [Poetry](https://python-poetry.org/) para gerenciar o ambiente virtual e as dependências. Certifique-se de que o Poetry está instalado.
+
+4. **DuckDB**: Para executar os notebooks/scripts deste projeto, lembre-se de realizar o procedimento de construção do banco de dados local com DuckDB.
 
 ```bash
 # Criar e ativar o ambiente com Poetry
