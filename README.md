@@ -1,7 +1,8 @@
 ![Python](https://img.shields.io/badge/python-3.13%2B-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Dataset](https://img.shields.io/badge/dataset-Discogs-lightgrey)](https://discogs-data-dumps.s3.us-west-2.amazonaws.com/index.html)
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
 [![DuckDB](https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow)](https://duckdb.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # Discogs
 
