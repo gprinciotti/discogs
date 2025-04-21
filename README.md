@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.13%2B-blue)
+[![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
+[![DuckDB](https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow)](https://duckdb.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Discogs
 
 Análise exploratória sobre tendências na música brasileira utilizando a base de dados do [Discogs](https://www.discogs.com/). Os dados foram extraídos dos *dumps* mais recentes e processados localmente. Para detalhes sobre a estrutura da base, consulte a [documentação da API do Discogs](https://www.discogs.com/developers).
